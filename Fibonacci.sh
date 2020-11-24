@@ -35,3 +35,4 @@ done
 echo
 
 echo "added a new line from git"
+echo "new"
